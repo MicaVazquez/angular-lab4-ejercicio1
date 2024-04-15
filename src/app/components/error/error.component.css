@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.section-alert {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url("../../../assets/fondo-conexion-red-degradado_23-2148881320.jpg");
+  background-position: center;
+  background-size: cover;
+  color: aliceblue;
+}
+
+p {
+  font-size: x-large;
+}
+button {
+  padding: 10px 20px;
+  margin-top: 16px;
+}
